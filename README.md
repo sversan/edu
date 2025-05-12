@@ -1,0 +1,2 @@
+# edu
+blog_educational
